@@ -1,0 +1,26 @@
+{
+  "name": "@whastings/eslint-config-whastings",
+  "version": "1.0.0",
+  "description": "eslint config for my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"N/A\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whastings/eslint-config-whastings.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Will Hastings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whastings/eslint-config-whastings/issues"
+  },
+  "homepage": "https://github.com/whastings/eslint-config-whastings#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
